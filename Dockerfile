@@ -3,3 +3,4 @@ COPY target/*.war /usr/local/tomcat/webapps/maven-web-app.war
 #testing
 #test
 #test
+#testing
