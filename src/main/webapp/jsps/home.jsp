@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Software Solutions, Global office where dreams come true.</h1>
+<h1 align="center">Welcome to Landmark Software Solutions, Global office where dreams come true we life is made easy to understand soft wear.</h1>
 <h1 align="center">We are developing and supporting qualitySoftware Solutions and serving over a million client millions of clients.
 	We also offer traning stafing Training for DevOps with Linux and Cloud equipping IT Engineers for best performance and quality control. production come and see for your self </h1>
 <hr>
